@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\bd\bd\bin\Debug\bd.exe.config
+C:\Users\Professional\source\repos\bd\bd\bin\Debug\bd.exe
+C:\Users\Professional\source\repos\bd\bd\bin\Debug\bd.pdb
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form1.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Properties.Resources.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.exe
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.pdb
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form2.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form3.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form4.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form5.resources
+C:\Users\Professional\source\repos\bd\bd\obj\Debug\bd.Form6.resources
